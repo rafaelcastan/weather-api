@@ -1,6 +1,7 @@
 # Weather-API
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was developed in the Avanade Fullstack developer at Digital Innovation One, in this project we get data from OpenWeather API and manipulate them.
+We used Angular 11 and NGRX to build the app.
 
 ## Development server
 
